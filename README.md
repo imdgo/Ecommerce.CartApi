@@ -23,7 +23,7 @@ API de gerenciamento de carrinho de compras, desenvolvida em **.NET 9**, com sup
   A API estará disponível em:
   <http://localhost:5000>
 
-📖 Documentação completa
+## 📖 Documentação completa
 A documentação detalhada do projeto, incluindo arquitetura, decisões técnicas e exemplos de uso, está disponível em:
 
 👉 docs/CartApi_Documentacao.md
